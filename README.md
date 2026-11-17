@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis | Data Cleaning & EDA
+# Bank Customer Churn Analysis
 
 ## 1. Project Objective
 Prepare and explore customer data for the Bank of Mavenland to understand customer churn patterns and identify relationships between customer characteristics and churn. The project focuses on data quality, exploratory data analysis, and feature engineering to prepare the dataset for two potential machine learning applications: **customer churn prediction and customer segmentation**.
